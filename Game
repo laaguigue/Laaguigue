@@ -1,0 +1,50 @@
+# Play the Maze Game 🎮
+
+You find yourself in a dark room.  
+Where do you want to go?  
+1️⃣ Left  
+2️⃣ Right  
+3️⃣ Forward  
+
+Type your choice in the issues section! 😄
+## Play My Game  
+[Click here to play Tic-Tac-Toe](https://username.github.io/repository-name/)
+![Game Demo](https://path-to-your-gif.gif)  
+[Play the Game](https://your-game-url.com)  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Click the Box Game</title>
+  <style>
+    #box {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      position: absolute;
+    }
+  </style>
+</head>
+<body>
+  <h1>Click the Box Game</h1>
+  <p>Click the moving box to score points!</p>
+  <div id="box"></div>
+  <script>
+    const box = document.getElementById("box");
+    let score = 0;
+
+    box.addEventListener("click", () => {
+      score++;
+      alert(`Score: ${score}`);
+      moveBox();
+    });
+
+    function moveBox() {
+      const x = Math.random() * (window.innerWidth - 100);
+      const y = Math.random() * (window.innerHeight - 100);
+      box.style.left = `${x}px`;
+      box.style.top = `${y}px`;
+    }
+    moveBox();
+  </script>
+</body>
+</html>
