@@ -1,19 +1,26 @@
-## Hi there 👋
+# Hi there 👋  
+I'm **Ayoub Laaguigue**, a passionate Full-Stack Developer specializing in mobile development with Flutter and backend solutions using Dart and more.
+### Skills and Tools  
+- 💻 Programming: Dart, JavaScript, Python  
+- 🌐 Frameworks: Flutter, Node.js  
+- 🛠️ Tools: Git, Docker, Isar DB  
+- 💾 Databases: MongoDB, Firebase  
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)
+### Current Projects  
+- 🚀 Building a scalable mobile app using Flutter  
+- 🌟 Exploring the power of Isar DB for performance  
+- ✍️ Writing clean and maintainable code  
+### GitHub Stats  
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLaaguigue&show_icons=true&theme=radical)
+### Let's Connect  
+- 🌐 [Portfolio](#)  
+- 📧 Email: [ayuob2173@gmnail.com](ayuob2173@gmail.com)  
+- 💬 WhatsApp: +212658798276  
+### Fun Fact  
+- 🔭 I’m constantly learning new frameworks and exploring creative solutions.  
+- 🧑‍💻 Code and coffee are my best friends! ☕  
 
-<!--
-**laaguigue/Laaguigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
