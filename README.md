@@ -1,10 +1,10 @@
 # Hi there 👋  
 I'm **Ayoub Laaguigue**, a passionate Full-Stack Developer specializing in mobile development with Flutter and backend solutions using Dart and more.
 ### Skills and Tools  
-- 💻 Programming: Dart, JavaScript, Python  
-- 🌐 Frameworks: Flutter, Node.js  
-- 🛠️ Tools: Git, Docker, Isar DB  
-- 💾 Databases: MongoDB, Firebase  
+- 💻 Programming: Dart, JavaScript, Python, Php........
+- 🌐 Frameworks: Flutter, Node.js, Reactjs, Nextjs, Laravel......
+- 🛠️ Tools: Git, Docker, Isar DB........
+- 💾 Databases: MongoDB, Firebase.......
 ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)
 ### Current Projects  
@@ -19,11 +19,8 @@ I'm **Ayoub Laaguigue**, a passionate Full-Stack Developer specializing in mobil
 - 💬 WhatsApp: +212658798276  
 ### Fun Fact  
 - 🔭 I’m constantly learning new frameworks and exploring creative solutions.  
-- 🧑‍💻 Code and coffee are my best friends! ☕  
-
-
-
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+- 🧑‍💻 Code and coffee are my best friends! ☕
+  
 </a>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
