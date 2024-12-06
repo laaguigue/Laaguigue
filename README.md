@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Ayoub Laaguigue**, a passionate Full-Stack Developer specializing in mobile development with Flutter and backend solutions using Dart and more.
+I'm **Ayoub Laaguigue**, a  Full-Stack mobile Developer  
 ### Skills and Tools  
 - 💻 Programming: Dart, JavaScript, Python, Php........
 - 🌐 Frameworks: Flutter, Node.js, Reactjs, Nextjs, Laravel......
@@ -57,6 +57,5 @@ I'm **Ayoub Laaguigue**, a passionate Full-Stack Developer specializing in mobil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="45" height="45"/>
 </p>
