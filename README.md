@@ -11,8 +11,7 @@ I'm **Ayoub Laaguigue**, a  Full-Stack mobile Developer
 - 🚀 Building a scalable mobile app using Flutter  
 - 🌟 Exploring the power of Isar DB for performance  
 - ✍️ Writing clean and maintainable code  
-### GitHub Stats  
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLaaguigue&show_icons=true&theme=radical)
+
 ### Let's Connect  
 - 🌐 [Portfolio](#)  
 - 📧 Email: [ayuob2173@gmnail.com](ayuob2173@gmail.com)  
