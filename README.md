@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Ayoub Laaguigue**, a  Full-Stack mobile Developer  
+I'm **Ayoub**, a  Full-Stack mobile Developer  
 ### Skills and Tools  
 - 💻 Programming: Dart, JavaScript, Python, Php........
 - 🌐 Frameworks: Flutter, Node.js, Reactjs, Nextjs, Laravel......
@@ -14,8 +14,7 @@ I'm **Ayoub Laaguigue**, a  Full-Stack mobile Developer
 
 ### Let's Connect  
 - 🌐 [Portfolio](#)  
-- 📧 Email: [ayuob2173@gmnail.com](ayuob2173@gmail.com)  
-- 💬 WhatsApp: +212658798276  
+- 📧 Email: [ayuob2173@gmnail.com](ayuob2173@gmail.com)
 ### Fun Fact  
 - 🔭 I’m constantly learning new frameworks and exploring creative solutions.  
 - 🧑‍💻 Code and coffee are my best friends! ☕
